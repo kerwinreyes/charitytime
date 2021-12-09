@@ -8,7 +8,6 @@ import '../sql/sqlservice.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-
 import 'home.dart';
 class LoginPage extends StatefulWidget {
   @override
